@@ -1,0 +1,7 @@
+{
+  "name": "saudi-map",
+  "version": "1.0.0",
+  "description": "SVG map with info",
+  "main": "index.js",
+  "license": "MIT"
+}
